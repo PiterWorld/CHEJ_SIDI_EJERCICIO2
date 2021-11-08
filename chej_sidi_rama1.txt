@@ -1,4 +1,9 @@
 Linea 1
 Linea 2
+<<<<<<< HEAD
 Nueva linea desde el master
 Nueva linea 2 desde el master
+=======
+Nueva linea jhsjs
+Nueva linea jhsjs2
+>>>>>>> chej_sidi_rama
